@@ -1,0 +1,15 @@
+current directory: /Users/wsc_mac04/heroku_app1/vendor/ruby/2.6.0/gems/bootsnap-1.8.1/ext/bootsnap
+/Users/wsc_mac04/.rbenv/versions/2.6.7/bin/ruby -I /Users/wsc_mac04/.rbenv/versions/2.6.7/lib/ruby/site_ruby/2.6.0 -r ./siteconf20210907-14153-2mkjk9.rb extconf.rb
+creating Makefile
+
+current directory: /Users/wsc_mac04/heroku_app1/vendor/ruby/2.6.0/gems/bootsnap-1.8.1/ext/bootsnap
+make DESTDIR\= clean
+
+current directory: /Users/wsc_mac04/heroku_app1/vendor/ruby/2.6.0/gems/bootsnap-1.8.1/ext/bootsnap
+make DESTDIR\=
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/wsc_mac04/heroku_app1/vendor/ruby/2.6.0/gems/bootsnap-1.8.1/ext/bootsnap
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20210907-14153-u4fz8f/bootsnap
