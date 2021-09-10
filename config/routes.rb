@@ -1,3 +1,4 @@
 Rails.application.routes.draw do
-    root 'puranobox#blogsz'
+    root "/",to: "blogs/index"
+    
 end
